@@ -30,3 +30,4 @@ root.mainloop
 
 print('нажмите ентер')
 input('')
+
